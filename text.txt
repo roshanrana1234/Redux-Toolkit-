@@ -1,0 +1,32 @@
+npx create-react-app rtkproject
+
+tailwind css
+
+npm i react-router-dom
+
+tanstack query 
+
+npm i @reduxjs/toolkit
+
+npm i react-redux
+
+Job
+
+InterView (Requirments)
+
+1) Last Company 
+2) Kitne Project 
+3) Last Salary 
+4) Exprience 
+5) Codeing Round 
+
+React Project (accha Project (Hosted ho to accha hai))
+Inter View Question (Observe)
+codeing round (loginc , Javascript,userState, useRef , React ,form, popup modal , useMemo, context Api , useReducer) Redux toolkit 
+closer, hosing, event loop , call stack ,v8 , single theaded,lecial scope , scope , closer , loop,block)
+
+200log 1 ho 50 rejection
+
+tailwind - botastrap - material ui - chakra ui - css
+
+react , vew, , react native , next js 

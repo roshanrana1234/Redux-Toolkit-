@@ -1,0 +1,10 @@
+{
+  "students": [
+    { "id": 1, "name": "roshan", "designation": "developer" },
+    { "id": 2, "name": "roshan", "designation": "developer" },
+    { "id": 3, "name": "roshan", "designation": "developer" },
+    { "id": 4, "name": "roshan", "designation": "developer" },
+    { "id": 5, "name": "roshan", "designation": "developer" },
+    { "id": 6, "name": "roshan", "designation": "developer" }
+  ]
+}
